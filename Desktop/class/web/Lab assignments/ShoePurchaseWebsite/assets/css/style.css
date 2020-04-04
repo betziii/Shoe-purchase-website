@@ -4,3 +4,26 @@
 body{
     font-family:'Ubuntu', sans-serif ;
 }
+.pd{
+    margin: 0px;
+    padding: 0px;
+}
+.gap{
+    padding: 1em;
+}
+.blue{
+    background-color: rgb(31, 38, 59);
+}
+.w{
+    width: 100%;
+}
+.white{
+    color: white;
+}
+.grey{
+    color: gray;
+}
+.brightblue{
+    color: rgb(64, 128, 224);
+    
+}
