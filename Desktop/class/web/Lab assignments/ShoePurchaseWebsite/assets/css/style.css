@@ -14,9 +14,7 @@ body{
 .blue{
     background-color: rgb(31, 38, 59);
 }
-.w{
-    width: 100%;
-}
+
 .white{
     color: white;
 }
@@ -26,4 +24,16 @@ body{
 .brightblue{
     color: rgb(64, 128, 224);
     
+}
+.col-md-8 {
+    text-align: left;
+}
+.but{
+    background-color: rgb(87, 183, 190);
+}
+hr{
+    margin-bottom: 7em;
+}
+#hrr{
+    margin-bottom: 2em;
 }
